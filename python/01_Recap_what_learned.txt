@@ -1,0 +1,10 @@
+#R-E-C-A-P    W-H-A-T        W-E           L-E-A-R-N-E-D
+course = 'Python for Beginners'
+len()
+course.upper()
+course.lower()
+course.title()
+course.find()
+course.replace()
+'....' in course
+
